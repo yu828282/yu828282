@@ -1,3 +1,1 @@
-# 안녕하세요
-- AI 엔지니어링을 배우는 중입니다.
-- 잘 부탁 드립니다.
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
